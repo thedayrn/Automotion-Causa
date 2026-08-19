@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Automotion.sas.iml" filepath="$PROJECT_DIR$/Automotion.sas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diagrama/Diagrama.iml" filepath="$PROJECT_DIR$/Diagrama/Diagrama.iml" />
     </modules>
   </component>
 </project>
